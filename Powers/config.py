@@ -16,7 +16,7 @@ AUTO_DEL = int(getenv("AUTO_DEL_TIME", 720))
 AUTO_DEL_IN = getenv("AUTO_DEL_IN", "minute").lower()
 START_PIC = getenv(
     "START_PIC", "https://envs.sh/gNn.jpg")
-DB_URI = "mongodb+srv://utahheroku10:utahheroku10@cluster0.lt5bp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DB_URI = "mongodb+srv://utahheroku12:utahheroku12@cluster0.igy9p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 SEARCH_PIC = "https://envs.sh/gNT.jpg"
 NO_RES_PIC = "https://envs.sh/gNp.jpg"
 TRENDING = "https://envs.sh/gNA.jpg"
