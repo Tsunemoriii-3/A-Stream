@@ -15,7 +15,7 @@ help_msg = """
 
 **» <u>Available Commands</u>**
 
-• <u>For Anime</u>: Just Type A Name, And Send It.</i></b>
+• <u>For Anime</u>: Just Type A Name, And Send It.
 
 • /top: Top 10 All Time Popular Anime.
 • /character [character name]: Search For The Given Character.
