@@ -93,7 +93,7 @@ async def search_anime_for_me(_, m: Message):
 
     if not results:
         await to_del.delete()
-        await m.reply_photo(NO_RES_PIC, caption=f"<b>»</b> ❌ 𝙽𝚘 𝙰𝚗𝚒𝚖𝚎 𝙵𝚘𝚞𝚗𝚍 𝚆𝚒𝚝𝚑 𝙽𝚊𝚖𝚎 - <b>{query}</b>")
+        await m.reply_photo(NO_RES_PIC, caption=f"<b>»</b> ❌ 𝙽𝚘 𝙰𝚗𝚒𝚖𝚎 𝙵𝚘𝚞𝚗𝚍 𝚆𝚒𝚝𝚑 𝙽𝚊𝚖𝚎 - <b>{query}</b> \n\n<b>»</b> 𝚃𝚛𝚢 𝚄𝚜𝚒𝚗𝚐 𝙰 𝚂𝚒𝚖𝚙𝚕𝚎 𝙽𝚊𝚖𝚎. \n\n<b>»</b>𝗘𝘅𝗮𝗺𝗽𝗹𝗲 - \n\n  𝙰𝚝𝚝𝚊𝚌𝚔 𝙾𝚗 𝚃𝚒𝚝𝚊𝚗 𝙵𝚞𝚕𝚕 𝙴𝚙𝚒𝚜𝚘𝚍𝚎 ❌ \n  𝙰𝚝𝚝𝚊𝚌𝚔 𝙾𝚗 𝚃𝚒𝚝𝚊𝚗 𝚂𝟷 𝚂𝟸 𝚂𝟹 𝙲𝚑𝚛𝚘𝚗𝚒𝚌𝚊𝚕 ❌ \n  𝙱𝚕𝚞𝚎 𝙴𝚡𝚘𝚛𝚡𝚒𝚜𝚝 𝙺𝚢𝚘𝚝𝚘 𝚂𝚊𝚐𝚊 ❌ \n\n  𝙰𝚝𝚝𝚊𝚌𝚔 𝙾𝚗 𝚃𝚒𝚝𝚊𝚗 ✅ \n  𝙱𝚕𝚞𝚎 𝙴𝚡𝚘𝚛𝚌𝚒𝚜𝚝 ✅ \n  𝙾𝚜𝚑𝚒 𝙽𝚘 𝙺𝚘 ✅ \n\n<b>»</b> 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐜𝐞 - /help")
         return
     elif results == 429:
         await to_del.edit_text("» 𝚃𝚘𝚘 𝙼𝚊𝚗𝚢 𝚄𝚜𝚎𝚛𝚜 𝙰𝚛𝚎 𝚄𝚜𝚒𝚗𝚐 𝙼𝚎, 𝙿𝚕𝚎𝚊𝚜𝚎 𝚃𝚛𝚢 𝙰𝚐𝚊𝚒𝚗 𝙸𝚗 𝟻 𝙼𝚒𝚗𝚞𝚝𝚎𝚜.\n\n» 𝙲𝚔𝚎𝚌𝚔 𝙾𝚞𝚝 𝙼𝚢 𝙼𝚒𝚛𝚛𝚘𝚛𝚜 - [𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲](https://t.me/Anime_Stream_LLC/39)")
