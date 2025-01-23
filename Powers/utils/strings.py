@@ -5,6 +5,7 @@ start_msg = """
 » Just Type Name of Any Anime, And Get Surprised By The Results.
 » You Must Join My Channel @Sonic_Otakus To Use Me.
 » [Guide For Using Me](https://t.me/Anime_Stream_LLC/50) - [Click Here](https://t.me/Anime_Stream_LLC/50)
+» For Any Assistance - Do /help
 » Enjoy Your Anime Watching Experience.</i></b>"""
 
 # [Sonic Otakus](https://t.me/Sonic_Otakus)! I can give streamable link as well as download link of all anime and do much more see help to know what I can do.
@@ -14,9 +15,15 @@ help_msg = """
 
 **» <u>Available Commands</u>**
 
+• <u>For Anime</u>: Just Type A Name, And Send It.</i></b>
+
 • /top: Top 10 All Time Popular Anime.
 • /character [character name]: Search For The Given Character.
-• <u>For Anime</u>: Just Type A Name, And Send It.</i></b>
+
+» <u>NOTE:</u> Ongoing Anime Are ❌ Not Included In The Search List.
+» Only Completed Anime Are Available ✅ In This Bot.</i></b>
+
+» 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐜𝐞 - [𝐀𝐝𝐦𝐢𝐧 𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/Illusion_Don)
 """
 
 dev_msg = """
