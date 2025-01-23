@@ -1,7 +1,7 @@
 start_msg = """
 • 𝗛𝗲𝗹𝗹𝗼!! 𝗖𝗼𝗺𝗽𝗮𝗱𝗿𝗲 ꈍ◡ꈍ
 
-<b><i>» I'm Anime Flix - I Can Share Streaming And Download Links of Any Anime With You.
+<b><i>» I'm Anime Stream - I Can Share Streaming And Download Links of Any Anime With You.
 » Just Type Name of Any Anime, And Get Surprised By The Results.
 » You Must Join My Channel @Sonic_Otakus To Use Me.
 » [Guide For Using Me](https://t.me/Anime_Stream_LLC/50) - [Click Here](https://t.me/Anime_Stream_LLC/50)
